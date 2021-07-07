@@ -1,0 +1,25 @@
+.title {
+    font-family: FreeMono, monospace;
+    text-align: center; 
+    margin: 20px;
+    color: #fff;
+    background-color: #28a745;
+}
+
+.container-image {
+    text-align: center;
+}
+
+.container-image img {
+    border-radius: 45px;
+}
+
+.descripción a {
+    color:rgb(28, 28, 181); 
+    font-size: 30px;
+}
+
+.descripción a:hover {
+    transition: background-color .5s;
+    font-size: 50px;
+}
